@@ -1,1 +1,5 @@
-# ElectricImp-Azure-Databricks-challenge
+# Electric Imp + Azure Databricks Challenge
+
+## About
+
+## Resources
