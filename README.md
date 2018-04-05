@@ -5,7 +5,7 @@ This challenge was first announced during the Blueprint + Databricks + MSFT Hack
 
 Stage 1 will kickoff via a webinar on April 5. More information about this webinar is available [here](https://bpcs.com/events/azure-databricks-iot-challenge-webinar). Stage 2 will kickoff via webinar on April 17. More information about this webinar is available [here](https://bpcs.com/events/azure-databricks-iot-challenge-stage-2-webinar).
 
-The main challenge website is available at [here](http://bpcs-april-iot-challenge.bpcs.com/)
+The main challenge website is available at [here](http://bpcs-april-iot-challenge.bpcs.com/).
 
 ## Stage 1
 ### Electric Imp Resources
