@@ -3,9 +3,10 @@
 ## About
 This challenge was first announced during the Blueprint + Databricks + MSFT Hackathon held in March 2018. The challenge is composed of two different stages. Stage 1 involves the use of the [impExplorer Developer Kit](https://store.electricimp.com/collections/protoype/products/impexplorer-developer-kit?variant=31118866130) by Electric Imp. Once completed, Stage 2 of the challenge involves the use of [Azure Databricks](https://azure.microsoft.com/en-us/services/databricks/).
 
-Stage 1 will kickoff via a webinar on April 5. More information about this webinar is available [here](https://bpcs.com/events/azure-databricks-iot-challenge-webinar). Stage 2 will kickoff via webinar on April 17.
+Stage 1 will kickoff via a webinar on April 5. More information about this webinar is available [here](https://bpcs.com/events/azure-databricks-iot-challenge-webinar). Stage 2 will kickoff via webinar on April 17. More information about this webinar is available [here](https://bpcs.com/events/azure-databricks-iot-challenge-stage-2-webinar).
 
-## Electric Imp Resources
+## Stage 1
+### Electric Imp Resources
 * [Electric Imp Developer Center](https://developer.electricimp.com)
 * [Getting Started with impExplorer](https://developer.electricimp.com/gettingstarted)
 * [impCentral IDE](https://impcentral.electricimp.com/ide)
@@ -18,3 +19,10 @@ Stage 1 will kickoff via a webinar on April 5. More information about this webin
 * [Hardware drivers](https://developer.electricimp.com/libraries/hardware)
 * [Web services integrations](https://developer.electricimp.com/libraries/webservices)
 * [Fieldbus Gateway QuickStart hardware](https://tinyurl.com/y85pscd8)
+
+### Challenge Unlock REST endpoint
+https://electricimpdeviceapi.azurewebsites.net/api/reading
+
+
+## Stage 2
+Coming soon
