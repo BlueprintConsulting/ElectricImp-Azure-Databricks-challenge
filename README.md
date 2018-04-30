@@ -27,4 +27,12 @@ https://electricimpdeviceapi.azurewebsites.net/api/reading
 
 
 ## Stage 2
-Coming soon
+### Azure Databricks Resources
+* [Integrating Azure Databricks with the Azure Ecosystem](https://www.youtube.com/watch?v=VZHGEkPINro)
+* [Intro to Machine Learning for Developers on Azure Databricks](https://databricks.com/intro-to-machine-learning-for-developers-on-azure-databricks)
+* [Azure Event Hubs & Databricks](https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-stream-from-eventhubs)
+* [ETL with Azure Databricks](https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-extract-load-sql-data-warehouse)
+* [Azure Databricks & Machine Learning](https://www.youtube.com/watch?v=NxgfgKbFnZY)
+* [Azure Databricks & Spark 2.3](https://www.youtube.com/watch?v=vmPibgYkwYw)
+* [Azure Databricks & Sentiment Analysis](https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-sentiment-analysis-cognitive-services)
+* [Azure Databricks & ]
