@@ -3,7 +3,7 @@
 ## About
 This challenge was first announced during the Blueprint + Databricks + MSFT Hackathon held in March 2018. The challenge is composed of two different stages. Stage 1 involves the use of the [impExplorer Developer Kit](https://store.electricimp.com/collections/protoype/products/impexplorer-developer-kit?variant=31118866130) by Electric Imp. Once completed, Stage 2 of the challenge involves the use of [Azure Databricks](https://azure.microsoft.com/en-us/services/databricks/).
 
-Stage 1 will kickoff via a webinar on April 5. More information about this webinar is available [here](https://bpcs.com/events/azure-databricks-iot-challenge-webinar). Stage 2 will kickoff via webinar on April 17. More information about this webinar is available [here](https://bpcs.com/events/azure-databricks-iot-challenge-stage-2-webinar).
+Stage 1 will kickoff via a webinar on April 5. More information about this webinar is available [here](https://bpcs.com/events/azure-databricks-iot-challenge-webinar). Stage 2 will kickoff via webinar on May 1. More information about this webinar is available [here](https://bpcs.com/events/azure-databricks-iot-challenge-stage-2-webinar).
 
 The main challenge website is available at [here](http://bpcs-april-iot-challenge.bpcs.com/).
 
