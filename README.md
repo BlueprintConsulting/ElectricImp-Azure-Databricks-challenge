@@ -38,3 +38,7 @@ https://electricimpdeviceapi.azurewebsites.net/api/reading
 * [IoT device simulator - Node](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-node-node-getstarted)
 * [IoT device simulator - Python](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-python-getstarted)
 * [IoT device simulator - Web Based](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started)
+
+
+### Challenge Website
+Use your unlock code in the following URL: challenge-[unlock-code-here].bpcs.com
