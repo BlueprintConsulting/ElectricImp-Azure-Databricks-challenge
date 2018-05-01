@@ -27,7 +27,7 @@ https://electricimpdeviceapi.azurewebsites.net/api/reading
 
 
 ## Stage 2
-### Azure Databricks Resources
+### Azure & Azure Databricks Resources
 * [Integrating Azure Databricks with the Azure Ecosystem](https://www.youtube.com/watch?v=VZHGEkPINro)
 * [Intro to Machine Learning for Developers on Azure Databricks](https://databricks.com/intro-to-machine-learning-for-developers-on-azure-databricks)
 * [Azure Event Hubs & Databricks](https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-stream-from-eventhubs)
@@ -35,3 +35,6 @@ https://electricimpdeviceapi.azurewebsites.net/api/reading
 * [Azure Databricks & Machine Learning](https://www.youtube.com/watch?v=NxgfgKbFnZY)
 * [Azure Databricks & Spark 2.3](https://www.youtube.com/watch?v=vmPibgYkwYw)
 * [Azure Databricks & Sentiment Analysis](https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-sentiment-analysis-cognitive-services)
+* [IoT device simulator - Node](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-node-node-getstarted)
+* [IoT device simulator - Python](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-python-getstarted)
+* [IoT device simulator - Web Based](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-raspberry-pi-web-simulator-get-started)
