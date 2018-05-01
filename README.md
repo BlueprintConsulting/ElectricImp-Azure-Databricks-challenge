@@ -35,4 +35,3 @@ https://electricimpdeviceapi.azurewebsites.net/api/reading
 * [Azure Databricks & Machine Learning](https://www.youtube.com/watch?v=NxgfgKbFnZY)
 * [Azure Databricks & Spark 2.3](https://www.youtube.com/watch?v=vmPibgYkwYw)
 * [Azure Databricks & Sentiment Analysis](https://docs.microsoft.com/en-us/azure/azure-databricks/databricks-sentiment-analysis-cognitive-services)
-* [Azure Databricks & ]
